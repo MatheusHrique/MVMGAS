@@ -7,7 +7,7 @@ Status: Desenvolvimento em andamento (...) <br>
 <b>Observações e anotações:</b><br><br>
 Link mercado livre do MQ-2 comprado: <br>
 https://produto.mercadolivre.com.br/MLB-692739386-sensor-de-gas-mq-2-glp-natural-e-fumaca-para-arduino-pic-_JM#is_advertising=true&position=3&search_layout=grid&type=pad&tracking_id=fd9d7b8e-f7f0-4594-a211-4c86d37ac881&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=3&ad_click_id=ZDMzNjMyNmItODU5Yi00MGQwLThiZjktMDMwOTc5NjRlZGY2 <br>
-Comprado pelo 'Matheus', semana do dia 16/07 chega a peça. <br>
+Comprado pelo 'Matheus', dia 12/07 chega a peça. <br>
 <hr><br>
 <b>Email do professor alessandro:</b> alessandro-horlle@educar.rs.gov.br <br>
 <hr><br>
